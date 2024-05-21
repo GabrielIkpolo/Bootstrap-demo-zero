@@ -1,16 +1,30 @@
+.carouselImages{
+    height: 30rem;
+}
+
 .wrapper{
     min-height: 100vh;
 }
 
+.welcomeSection{
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.myCard{
+    margin-top: 3rem;
+}
+
+.theFormElement{
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+}
+
 .footer{
-    background-color: black;
+    padding-top: 4rem;
+    background-color: rgb(199, 189, 189);
     color: white;
-}
-
-.myForm{
-    margin-top: 100px;
-}
-
-.container{
-    margin-bottom: 400px;
+    display: flex;
+    justify-content: center;
 }
