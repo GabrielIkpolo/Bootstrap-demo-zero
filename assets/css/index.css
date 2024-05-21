@@ -1,0 +1,16 @@
+.wrapper{
+    min-height: 100vh;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+
+.myForm{
+    margin-top: 100px;
+}
+
+.container{
+    margin-bottom: 400px;
+}
